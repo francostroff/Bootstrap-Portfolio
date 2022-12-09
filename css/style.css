@@ -1,0 +1,46 @@
+
+body {
+    margin-top: 0;
+}
+
+
+
+nav {
+    height: 50px;
+ background-image: linear-gradient(
+        rgb(255, 0, 0) 0%,
+        rgb(0, 0, 0) 100%
+      );
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.jumbotron {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    margin-bottom: 0;
+
+}
+
+.display-4 {
+    color: white;
+    margin-left: 400px;
+   
+}
+
+
+.jumbotron-2-fluid {
+    height: 700px;
+background-image: url("../images/myportfolio\ QR.png");
+background-repeat: no-repeat;
+background-size:30%;
+background-position-y: bottom;
+
+}
+
