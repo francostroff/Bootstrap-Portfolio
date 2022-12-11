@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-    color:#00A0C6; 
+    color:#ffffff; 
     text-decoration:none; 
     cursor:pointer;  
 }
@@ -62,6 +62,12 @@ a:hover {
 
 }
 
+.Paragraph1 {
+
+    color: white;
+}
+
+
 
 .jumbotron-fluid-2 {
     height: 350px;
@@ -69,7 +75,14 @@ a:hover {
 
     
 }
+
 .jumbotron-fluid-3 {
+    height: 600px;
+    background-image: url("../images/Asset\ 1-100.jpg");
+    background-size: 70%;
+    
+}
+.jumbotron-fluid-4 {
     height: 700px;
 background-image: url("../images/myportfolio\ QR.png");
 background-repeat: no-repeat;
@@ -83,6 +96,7 @@ background-position-y: top;
    height: 500px;
    border-width: 5px;
 }
+
 
 .col-sm-4 {
     height: 400px;
@@ -105,7 +119,27 @@ background-position-y: top;
     width: 100%;
   }
 
-  
+  #image4 {
+    background-image: url("../images/vegan_mockup.jpg");
+    background-position: center;
+    background-size: 150%;
+    background-repeat: no-repeat;
+
+  }
+
+  #image5 {
+    background-image: url("../images/Artboard\ 1.jpg");
+    background-position: center;
+    background-size: 150%;
+    background-repeat: no-repeat;
+  }
+
+  #image6 {
+    background-image: url("../images/gskitchen_mockup.jpg");
+    background-position: center;
+    background-size: 150%;
+    background-repeat: no-repeat;
+  }
 
   #motion-card {
     background-image: url(../images/Asset\ 50.png);
@@ -132,17 +166,4 @@ background-position-y: top;
     color: white;
   }
   
-
-        
-  .Title1:hover:before {
-    color: #fff;
-    width: 100%;
-  }
-    
-        
-  #illustration-card:hover:before {
-    color: #fff;
-    width: 100%;
-  }
-    
 
