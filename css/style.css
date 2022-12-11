@@ -23,17 +23,23 @@ nav {
       );
 }
 
-.list {
-    display: flex;
-    flex-direction: row;
-    color: white;
-    font-size: 30px;
-    justify-content:space-between;
-    align-items: center;
-    
 
+a {
+    color: white;
+
+    
 }
 
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+.justify-content-center {
+    font-size: 25px;
+    justify-content: space-between;
+    
+}
 
 .jumbotron {
     background-color: black;
@@ -50,31 +56,37 @@ nav {
    
 }
 
-.com-sm-4 {
-    background-color: aqua;
+.display-5 {
+
+    color: white;
+
 }
+
 
 .jumbotron-fluid-2 {
     height: 350px;
+    background-image: linear-gradient( rgba(255, 0, 0, 0.602) 0%, rgb(0, 0, 0) 100% );
+
+    
 }
 .jumbotron-fluid-3 {
     height: 700px;
 background-image: url("../images/myportfolio\ QR.png");
 background-repeat: no-repeat;
-background-size:30%;
-background-position-y: bottom;
+background-size:20%;
+background-position-y: top;
 
 }
 
-.container-fluid-1 {
+.container-fluid-2 {
    background-color: aqua;
    height: 500px;
    border-width: 5px;
 }
 
 .col-sm-4 {
-    background-color: pink;
-    height: 250px;
+    height: 400px;
+   
 }
   .nav:before {
     position: absolute;
@@ -92,3 +104,45 @@ background-position-y: bottom;
     color: #fff;
     width: 100%;
   }
+
+  
+
+  #motion-card {
+    background-image: url(../images/Asset\ 50.png);
+    background-position: center;
+    background-size: 100%;
+    font-size: 30px;
+    color: white;
+  }
+
+  #videoedit-card {
+    background-image: url(../images/Samurai\ Logo\ \(1\).jpg);
+    background-position: center;
+    background-size: 150%;
+    font-size: 30px;
+    color: white;
+  }
+
+  #illustration-card {
+    background-image: url(../images/Asset\ 1-100.jpg);
+    background-position: center;
+    background-size: 150%;
+    align-content: center;
+    font-size: 30px;
+    color: white;
+  }
+  
+
+        
+  .Title1:hover:before {
+    color: #fff;
+    width: 100%;
+  }
+    
+        
+  #illustration-card:hover:before {
+    color: #fff;
+    width: 100%;
+  }
+    
+
