@@ -31,7 +31,10 @@ a:hover {
     color:#ffffff; 
     background-color: black;
     text-decoration:none; 
-    cursor:pointer;  }
+    cursor:pointer; 
+    border-radius: 8px;
+    transition: all 0.5s ease-in-out;
+    box-shadow: inset 0px 0px 8px  rgb(154, 17, 17), 0 0 15px  rgb(154, 17, 17); }
 
 .jumbotron {
     background-color: black;
@@ -58,7 +61,6 @@ a:hover {
     display: flex;
     justify-content: center;
     align-content: center;
-
     color: white;
 }
 
@@ -69,8 +71,6 @@ a:hover {
     height: 100px;
     background-image: linear-gradient( rgba(255, 0, 0, 0.602) 0%, rgb(0, 0, 0) 100% );
     border-radius: 0px;
-
-    
 }
 
 .jumbotron-fluid-3 {
@@ -81,14 +81,11 @@ a:hover {
     border-radius: 0px;
 }
 
-
-
- .container-2 {
+.container-2 {
     
     justify-content: center;
     align-content: center;
     height: 100px;
-    
 }
 
 
