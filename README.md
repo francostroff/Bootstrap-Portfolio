@@ -19,5 +19,5 @@ A footer section
 All hyperlinks should have a hover effect.
 All buttons should display a box shadow upon hover.
 
-GitHub repository - 
-Live URL -
+GitHub repository - https://github.com/francostroff/Bootstrap-Portfolio
+Live URL - 
