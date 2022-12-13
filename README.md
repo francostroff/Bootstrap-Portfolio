@@ -20,4 +20,4 @@ All hyperlinks should have a hover effect.
 All buttons should display a box shadow upon hover.
 
 GitHub repository - https://github.com/francostroff/Bootstrap-Portfolio
-Live URL - 
+Live URL - https://francostroff.github.io/Bootstrap-Portfolio/
