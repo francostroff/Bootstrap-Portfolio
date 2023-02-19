@@ -1,7 +1,10 @@
 # Bootstrap-Portfolio
 ## Module 3 Challenge - Bootcamp
 This is a website portfolio built with Boostrap, the challenge was to make a web portfolio similar to challenge 02 of the Bootcamp but this time with HTML CSS and Bootstrap.
-What was done in order to complete the challenge:
+
+
+
+## Description
 
 A navigation menu at the top.
 Include links that are applicable to your portfolio.
@@ -19,5 +22,9 @@ A footer section
 All hyperlinks should have a hover effect.
 All buttons should display a box shadow upon hover.
 
+
+## Links
 GitHub repository - https://github.com/francostroff/Bootstrap-Portfolio
 Live URL - https://francostroff.github.io/Bootstrap-Portfolio/
+
+## Application MockUp
