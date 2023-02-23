@@ -1,30 +1,44 @@
 # Bootstrap-Portfolio
+
 ## Module 3 Challenge - Bootcamp
-This is a website portfolio built with Boostrap, the challenge was to make a web portfolio similar to challenge 02 of the Bootcamp but this time with HTML CSS and Bootstrap.
 
-
+ * This is a website portfolio built with Boostrap, the challenge was to make a web portfolio similar to challenge 02 of the Bootcamp but this time with HTML CSS and Bootstrap.
 
 ## Description
 
-A navigation menu at the top.
-Include links that are applicable to your portfolio.
-Links should navigate to the appropriate sections
-A hero section
-A jumbotron featuring your picture, your name, and any other information you'd like to include.
-A work section
-A section displaying your work in grid.
-Use Bootstrap cards for each project.
-A skills section
-List out the skills you expect to learn from the bootcamp.
-An about/contact section
-An About Me section in the same row.
-A footer section
-All hyperlinks should have a hover effect.
-All buttons should display a box shadow upon hover.
-
+ * A simple web page made with HTML, Bootstrap and Css in order to showcase my 
+ portfolio as an illustrator and motion designer.
+ I'm still working on a future release of this page.
 
 ## Links
-GitHub repository - https://github.com/francostroff/Bootstrap-Portfolio
-Live URL - https://francostroff.github.io/Bootstrap-Portfolio/
+
+ * GitHub repository - https://github.com/francostroff/Bootstrap-Portfolio
+
+ * Live URL - https://francostroff.github.io/Bootstrap-Portfolio/
 
 ## Application MockUp
+
+ * The following image shows the web application's appearance and functionality:
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.13.52.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.01.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.08.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.14.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.18.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.24.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.45.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.14.54.png)
+
+![](images/screenshot/Screenshot%202023-02-23%20at%2023.15.03.png)
+
+
+
+
+
